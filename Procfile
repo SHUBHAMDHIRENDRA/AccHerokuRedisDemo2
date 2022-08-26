@@ -1,0 +1,1 @@
+springsample: sh target/bin/spring-sample
